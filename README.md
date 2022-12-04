@@ -1,4 +1,4 @@
-# STP Lb1
+# STP
 
 Django project.
 
