@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcServer", "CalcServer\CalcServer.csproj", "{97E41F77-CDAA-4512-B082-DDA9F464F136}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcClient", "CalcClient\CalcClient.csproj", "{4A4E0CB7-FDA4-447D-B736-D237D9A17A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcInterfaces", "CalcInterfaces\CalcInterfaces.csproj", "{43B74115-44B0-4407-8CE6-B43714F4291F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97E41F77-CDAA-4512-B082-DDA9F464F136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E41F77-CDAA-4512-B082-DDA9F464F136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E41F77-CDAA-4512-B082-DDA9F464F136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E41F77-CDAA-4512-B082-DDA9F464F136}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A4E0CB7-FDA4-447D-B736-D237D9A17A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A4E0CB7-FDA4-447D-B736-D237D9A17A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A4E0CB7-FDA4-447D-B736-D237D9A17A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A4E0CB7-FDA4-447D-B736-D237D9A17A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43B74115-44B0-4407-8CE6-B43714F4291F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43B74115-44B0-4407-8CE6-B43714F4291F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43B74115-44B0-4407-8CE6-B43714F4291F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43B74115-44B0-4407-8CE6-B43714F4291F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
